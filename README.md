@@ -1,1 +1,1 @@
-# flutter-coding-challenge
+# flutter-community-challenge
