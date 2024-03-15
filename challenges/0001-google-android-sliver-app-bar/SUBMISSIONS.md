@@ -1,4 +1,4 @@
-# Submissions to Flutterease Challenge context 0001
+# Submissions - Context 0001
 
 ### Thanks for taking the time to submit you work! 💙
 

@@ -40,10 +40,10 @@ This section guides through submitting a solution to a challenge. **How it works
 
 1. Navigate through the `challenges` folder and pick a problem to tackle. Each problem consist of a sub folder inside the `challenges` folder.
 
-   The challenge folder is named following this format: `XXXX-problem_name`, where `XXXX` is the number of the recent problem.
+   The challenge folder is named following this format: `XXXX-context_name`, where `XXXX` is the number of the recent problem.
 
 2. Dive in and start working on it.
-3. Once you've crafted your solution, contribute to repo by adding the GitHub link to `submissions.md` under `challenges/XXXX-problem_name/submissions.md`.
+3. Once you've crafted your solution, contribute to repo by adding the GitHub link to `SUBMISSIONS.md` under `challenges/XXXX-context_name/SUBMISSIONS.md`.
 
    You can also add links to your social medias posts for the challenge.
 
