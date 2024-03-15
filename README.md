@@ -1,6 +1,6 @@
 # Flutterease Challenge
 
-The Flutter Community Challenge is an initiative aimed at promoting creativity and collaboration within the Flutter developer community.
+The Flutterease Challenge is an initiative aimed at promoting creativity and collaboration within the Flutter developer community.
 
 Follow me on [Twitter](https://twitter.com/martinoyovo) and [LinkedIn](https://www.linkedin.com/in/martino-yovo) and star the repo 🌟 if you find this challenge useful.
 
