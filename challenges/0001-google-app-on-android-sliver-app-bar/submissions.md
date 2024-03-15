@@ -1,6 +1,6 @@
 # Submissions to Flutterease Challenge context 0001
 
-### First off, thanks for taking the time to contribute! 💙
+### Thanks for taking the time to submit you work! 💙
 
 Please include the GitHub link to your work. Optionally, you can include the link to your social medias posts regarding the challenge and every submission.
 In case the ID is full, you can create another row and add your work.
