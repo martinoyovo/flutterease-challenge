@@ -1,10 +1,10 @@
-# Flutter Community Challenge
+# Flutter Coding Challenge
 
 The Flutter Community Challenge is an initiative aimed at promoting creativity and collaboration within the Flutter developer community.
 
 Follow me on [Twitter](https://twitter.com/martinoyovo) and [LinkedIn](https://www.linkedin.com/in/martino-yovo) and star the repo 🌟 if you find this challenge useful.
 
-![Flutter Community challenge.png](Flutter%20Community%20Challenge%20b4378f06075140ff804569967212a421/Flutter_Community_challenge.png)
+![Flutter Community challenge.png](banner.png)
 
 This challenge encourages developers from all over the world to come together and create innovative applications using Flutter.
 
@@ -46,6 +46,6 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
 
 | Context ID | View context on GitHub | View solution on GitHub | View solution on YouTube   | Twitter Post | LinkedIn Post |
 | --- | --- | --- | --- | --- | --- |
-| 1 | https://github.com/martinoyovo/flutter-community-challenge/blob/main/challenges/0001-google-app-on-android-sliver-app-bar/problem.md |  |  |  |  |
+| 1 | [Google App on Sliver app bar on Android](https://github.com/martinoyovo/flutter-community-challenge/blob/main/challenges/0001-google-app-on-android-sliver-app-bar/problem.md) |  |  |  |  |
 
 ## We’re looking forward to your contributions 💙🤭🚀
