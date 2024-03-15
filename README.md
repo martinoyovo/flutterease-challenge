@@ -34,7 +34,7 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
 4. **Additionally, the source code for each challenge will be included in their respective folder.**
 
 <aside>
-🔥 Subscribe to the YouTube channel [here](https://www.youtube.com/@flutterease001) and make sure to activate the notifications to stay updated.
+🔥 Subscribe to the YouTube channel <a href="https://www.youtube.com/@flutterease001">here</a> and make sure to activate the notifications to stay updated.
 
 </aside>
 
