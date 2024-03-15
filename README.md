@@ -30,7 +30,7 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
    > `[OPTIONAL]`: You can tag **(Martino Yovo) @martinoyovo** to have a rapid review to your submission.
 >
 2. Alongside with fellow [community leads](https://twitter.com/fluttertg?lang=en), we’ll review each submission, offering valuable feedback to every participant of the challenge. If you’d like your submission not to reviewed, kindly precise it during your submission. Check submission template [here](https://github.com/martinoyovo/flutter-design-collection/submission_template.md).
-3. A **solution approach** of every problem will be posted on the [***Flutterease YouTube channel](https://www.youtube.com/@flutterease001).*** This solution will demonstrate possible implementation strategies for participants.
+3. A **solution approach** of every problem will be posted on the [*Flutterease YouTube channel](https://www.youtube.com/@flutterease001).*** This solution will demonstrate possible implementation strategies for participants.
 4. **Additionally, the source code for each challenge will be included in their respective folder.**
 
 <aside>
