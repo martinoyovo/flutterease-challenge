@@ -1,4 +1,4 @@
-# Flutter Coding Challenge
+# Flutterease Challenge
 
 The Flutter Community Challenge is an initiative aimed at promoting creativity and collaboration within the Flutter developer community.
 
@@ -25,7 +25,7 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
 
 ## **What’s next**
 
-1. You can post your submission on social medias. Make sure to include `#fluttercommchallenge` hashtag.
+1. You can post your submission on social medias. Make sure to include `#fluttereasechallenge` hashtag.
 
    > `[OPTIONAL]`: You can tag **(Martino Yovo) @martinoyovo** to have a rapid review to your submission.
 >
