@@ -19,7 +19,7 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
 3. Once you've crafted your solution, contribute to repo by adding the GitHub link to `submissions.md` under `challenges/XXXX-problem_name/submissions.md`.
 
     <aside>
-    🚧 Note: Make sure to use the submission text template <a href="https://github.com/martinoyovo/flutter-design-collection/submission_template.md">here</a>.
+    🚧 Note: Make sure to use the submission text template <a href="https://github.com/martinoyovo/flutter-design-collection/submission_template.md" target="_blank">here</a>.
 
     </aside>
 
@@ -34,7 +34,7 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
 4. **Additionally, the source code for each challenge will be included in their respective folder.**
 
 <aside>
-🔥 Subscribe to the YouTube channel <a href="https://www.youtube.com/@flutterease001">here</a> and make sure to activate the notifications to stay updated.
+🔥 Subscribe to the YouTube channel <a href="https://www.youtube.com/@flutterease001" target="_blank">here</a> and make sure to activate the notifications to stay updated.
 
 </aside>
 
