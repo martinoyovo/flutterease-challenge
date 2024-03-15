@@ -15,12 +15,11 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
 1. Navigate through the `challenges` folder and pick a problem to tackle. Each problem consist of a sub folder inside the `challenges` folder.
 
    The challenge folder is named following this format: `XXXX-problem_name`, where `XXXX` is the number of the recent problem.
-
 2. Dive in and start working on it.
 3. Once you've crafted your solution, contribute to repo by adding the GitHub link to `submissions.md` under `challenges/XXXX-problem_name/submissions.md`.
 
     <aside>
-    🚧 Note: Make sure to use the submission text template [here](https://github.com/martinoyovo/flutter-design-collection/submission_template.md).
+    🚧 Note: Make sure to use the submission text template <a href="https://github.com/martinoyovo/flutter-design-collection/submission_template.md">here</a>.
 
     </aside>
 
