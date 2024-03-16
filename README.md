@@ -40,6 +40,6 @@ It’s not just about coding but also about ***learning, sharing knowledge, and 
 
 | Context ID | View context on GitHub | View solution on GitHub | View solution on YouTube   | Twitter Post | LinkedIn Post |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Google App on Sliver app bar on Android](https://github.com/martinoyovo/flutter-community-challenge/blob/main/challenges/0001-google-app-on-android-sliver-app-bar/CONTEXT.md) |  |  |  |  |
+| 1 | [Google App on Sliver app bar on Android](https://github.com/martinoyovo/flutterease-challenge/blob/main/challenges/0001-google-android-sliver-app-bar/CONTEXT.md) |  |  |  |  |
 
 ## We’re looking forward to your contributions 💙🤭🚀
